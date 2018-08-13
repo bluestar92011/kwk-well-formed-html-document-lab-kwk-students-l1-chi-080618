@@ -1,5 +1,5 @@
 # Well-Formed HTML Document Lab
-
+<!Doctypehtml>
 ## Objectives
 
 1. Add an appropriate `doctype` tag at the top of an HTML file.
